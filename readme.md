@@ -8,4 +8,5 @@ Android 4.4 未満では一部機能に制限があり、ゲームモード時�
 　アップデートは、新しい apk ファイルを上書きインストールするだけです。設定はそのまま引き継がれるはず。  
 　Bluetooth, USB の外付けキーボード（106, 109系のみ）に対応しています。うまく入力できないときは日本語入力ソフトを変更してみてください（Google 日本語入力→ Gboard など）。  
  　ゲームコントローラには対応していません。   
+  
 詳細は下記ページへ[https://find-jr200.github.io/vjr200android.html](https://find-jr200.github.io/vjr200android.html)
