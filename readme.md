@@ -10,8 +10,10 @@ VJR-200 for Android is an emulator of Panasonic JR-200 (Japanese model). However
  Compatible with Bluetooth and USB external keyboards (Japanese keyboard only). If you are having difficulty entering, try changing the Japanese input software (Google Japanese Input -> Gboard, etc.).  
   Not compatible with game controllers.  
 
-the following page for  details[https://find-jr200.github.io/vjr200android_en.html](https://find-jr200.github.io/vjr200android_en.html)  
+the following page for  details  
+[https://find-jr200.github.io/vjr200android_en.html](https://find-jr200.github.io/vjr200android_en.html)  
 
+-------------------------------------------------------------  
 
 Android 4.1～10 で動作する JR-200 エミュレータです（Android 4.4 以上を推奨）。Android 11では動作しません。  
 縦画面は単体での使用、横画面は外付けキーボードと組み合わせた使用、またはゲームでの使用を想定しています。  
@@ -23,4 +25,5 @@ Android 4.4 未満では一部機能に制限があり、ゲームモード時�
 　Bluetooth, USB の外付けキーボード（106, 109系のみ）に対応しています。うまく入力できないときは日本語入力ソフトを変更してみてください（Google 日本語入力→ Gboard など）。  
  　ゲームコントローラには対応していません。   
   
-詳細は下記ページへ[https://find-jr200.github.io/vjr200android.html](https://find-jr200.github.io/vjr200android.html)
+詳細は下記ページへ  
+[https://find-jr200.github.io/vjr200android.html](https://find-jr200.github.io/vjr200android.html)
